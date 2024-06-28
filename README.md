@@ -43,3 +43,8 @@ RF phases for Task 2 are saved in the following files:
   - T2: ≈ 0.11 s
   - Relative B1 (rB1): ≈ 0.77
   - Diffusion Coefficient (D): ≈ 0.84 ∙ 10^(-3) mm²/s
+
+### Colab MR-zero simulation
+- You can run the Colab to simulate different standard rf increments or optimization tasks.
+- https://github.com/MRsources/FLASHzero/blob/main/MRM2024/FLASHzero.ipynb
+- https://colab.research.google.com/github/MRsources/MRzero-Core/blob/main/documentation/playground_mr0/mr0_FLASH_2D_seq.ipynb

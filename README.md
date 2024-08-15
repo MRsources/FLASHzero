@@ -46,5 +46,8 @@ RF phases for Task 2 are saved in the following files:
 
 ### Colab MR-zero simulation
 - You can run the Colab to simulate different standard rf increments or optimization tasks.
-- https://github.com/MRsources/FLASHzero/blob/main/MRM2024/FLASHzero.ipynb
-- https://colab.research.google.com/github/MRsources/FLASHzero/blob/main/MRM2024/FLASHzero.ipynb
+  - https://github.com/MRsources/FLASHzero/blob/main/MRM2024/FLASHzero.ipynb
+  - https://colab.research.google.com/github/MRsources/FLASHzero/blob/main/MRM2024/FLASHzero.ipynb
+- You can run the Colab to see the influence of the Epstein artifact on different sharp edges (Comparison with Gibbs Ringing)
+  - https://github.com/MRsources/FLASHzero/blob/main/MRM2024/Epstein_Artifact_PSF.ipynb
+  - https://colab.research.google.com/github/MRsources/FLASHzero/blob/main/MRM2024/Epstein_Artifact_PSF.ipynb
